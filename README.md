@@ -10,21 +10,24 @@ Make sure your pitch answers the following questions:
 
 What else has been done on this topic (provide links)? How is your angle different or fresh?
 
-- [Related headline (NYT)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
-- [Related headline (NPR)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
-- [Related headline (WNYC)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
+- [Industries hit hardest by coronavirus in the US include retail, transportation, and travel (USA TODAY)](https://www.usatoday.com/story/money/2020/03/20/us-industries-being-devastated-by-the-coronavirus-travel-hotels-food/111431804/)
+- [Three Industries That Are Being Decimated By The Coronavirus (Forbes)](https://www.forbes.com/sites/chuckjones/2020/03/28/three-industries-that-are-being-decimated-by-the-coronavirus/#3f186cd79423)
+- [These Industries Suffered the Biggest Job Losses (CNBC)](https://www.cnbc.com/2020/05/08/these-industries-suffered-the-biggest-job-losses-in-april-2020.html)
 
 Describe how and where you found the data with links to sources. Put the raw data (csv format) in a folder called `data` in this folder. Make a folder called `notebooks` where you will write your pandas code.
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
-- Finding 1
-- Finding 2
-- Finding 3
+- Finding 1: While the restaurant industry was the number one most affected business type, percentage wise, the hotel industry had more affected between the two top categories. 
+- Upto 70% of the businesses affected were from New York County 
+- 
 
 Who are some potential human sources you could reach out to for more info?
+Industry experts. economists that work or a staffer that works at a data analytics platform for one of the industries for example DAT Freight Analytics for transport jobs. 
 
 What is the maximum (best) story possible? What's the minimum (fallback) story if your hypothesis doesn't prove out?
+
+Best story possible is to be able to narrow down percentage wise the actual affected number to see which indury really got hit based on how many are employed in that industry and how many were let go. Fallback is to just look at general numbers porvided in the data without suing percentages to get a better look. 
 
 ## How to publish and submit your project
 
