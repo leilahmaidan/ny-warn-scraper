@@ -18,14 +18,14 @@ Describe how and where you found the data with links to sources. Put the raw dat
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
-- Finding 1: While the restaurant industry was the number one most affected business type, percentage wise, the hotel industry had more affected between the two top categories. 
-- Upto 70% of the businesses affected were from New York County 
-- 
+- Finding 1: Of New York States businesses affected, 72% of hotels and 71% of restaurants affected were in New York County.
+- Finding 2: For New York County number of affected for Restaurants was 28102 and hotels was 12690.                            - Finding 3: From the rows that had correct input data: For the hotel industry, the total percentage of employees laidoff for New York State was 66.4%, for the restaurant industry, the total percentage of employees laidoff for New York State was 13%. 
 
-Who are some potential human sources you could reach out to for more info?
+
+# Who are some potential human sources you could reach out to for more info?
 Industry experts. economists that work or a staffer that works at a data analytics platform for one of the industries for example DAT Freight Analytics for transport jobs. 
 
-What is the maximum (best) story possible? What's the minimum (fallback) story if your hypothesis doesn't prove out?
+# What is the maximum (best) story possible? What's the minimum (fallback) story if your hypothesis doesn't prove out?
 
 Best story possible is to be able to narrow down percentage wise the actual affected number to see which indury really got hit based on how many are employed in that industry and how many were let go. Fallback is to just look at general numbers porvided in the data without suing percentages to get a better look. 
 
