@@ -15,7 +15,8 @@ Describe how and where you found the data with links to sources. Put the raw dat
 Write up at least one or up to three findings from your analysis based on the data you found.
 
 - Finding 1: Of New York States businesses affected, 72% of hotels and 71% of restaurants affected were in New York County.
-- Finding 2: For New York County number of affected for Restaurants was 28102 and hotels was 12690.                            - Finding 3: From the rows that had correct input data: For the hotel industry, the total percentage of employees laidoff for New York State was 66.4%, for the restaurant industry, the total percentage of employees laidoff for New York State was 13%. 
+- Finding 2: For New York County number of affected for Restaurants was 28102 and hotels was 12690.                            
+- Finding 3: From the rows that had correct input data: For the hotel industry, the total percentage of employees laidoff for New York State was 66.4%, for the restaurant industry, the total percentage of employees laidoff for New York State was 13%. 
 
 
 ## Who are some potential human sources you could reach out to for more info?
